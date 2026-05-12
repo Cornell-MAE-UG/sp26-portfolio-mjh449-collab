@@ -2,6 +2,7 @@
 layout: project
 title: Mechatornics Robot - Felix
 description: Final Project Report
+image: /assets/images/Felix.jpg
 technologies: Arduino, Fusion 360
 permalink: /projects/Mechatronics-Robot/
 ---
